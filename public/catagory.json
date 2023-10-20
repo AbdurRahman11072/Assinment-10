@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "catagoty": "Disney",
+    "img": "https://images.thedirect.com/media/article_full/disney-movie.jpg",
+    "bordercolor": "White"
+  },
+  {
+    "id": 2,
+    "catagoty": "Netflix",
+    "img": "https://www.bssnews.net/assets/news_photos/2021/12/01/image-31215-1638369935.jpg",
+    "bordercolor": "White"
+  },
+  {
+    "id": 3,
+    "catagoty": "Sony Pictures",
+    "img": "https://variety.com/wp-content/uploads/2016/04/sony-pictures-television-logo.jpg",
+    "bordercolor": "white"
+  },
+  {
+    "id": 4,
+    "catagoty": "Warner Bros",
+    "img": "https://cdn.whats-on-netflix.com/wp-content/uploads/2018/12/14160039/Warner-Brothers-Netflix-Content.jpg",
+    "bordercolor": "White"
+  },
+  {
+    "id": 5,
+    "catagoty": "Spotify",
+    "img": "https://www.scdn.co/i/_global/open-graph-default.png",
+    "bordercolor": "White"
+  },
+  {
+    "id": 6,
+    "catagoty": " Time Warner",
+    "img": "https://variety.com/wp-content/uploads/2013/11/time-warner-cable-logo.jpg",
+    "bordercolor": "white"
+  }
+]
