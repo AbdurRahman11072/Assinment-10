@@ -1,8 +1,14 @@
-# React + Vite
+# React Video Streaming Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+About This Website:
+<h5>
+  This website was build to entertain people. By this Website people can watch movie they can't watch on television.
+</h5>
+
+Feature of this Website:
+-Authentication
+-Filter by Catagory
+-Slider 
+-Functionality to update Delete movie
