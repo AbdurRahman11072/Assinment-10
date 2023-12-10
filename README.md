@@ -6,7 +6,18 @@
 <h5>
   This website was build to entertain people. By this Website people can watch movie they can't watch on television.Because of this website viewers doesn't need to go to cinama hoal.
 </h5>
+
+# Technology that have been used in this project
+- Html
+- Tailwind
+- React
+- Node js
+- Mongodb
+- Express js
+- And some other React library
+
 </br>
+
 # Feature of this Website:
 
 - Authentication
